@@ -1,4 +1,4 @@
-FNAF Fan Game Project
+FNAF Fan Game Project, FNAF 1 Assets will be used as PLACEHOLDERS.
 
 The Releases folder has test builds
 
